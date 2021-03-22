@@ -1,4 +1,4 @@
-Recordings of the simulations presented in 
+Recordings of the simulations presented in the paper
 ### **"Minimizing Health Risks as a Function of the Number of Airplane Boarding Groups"** 
 submitted to the `Transportmetrica B` journal. 
 
