@@ -1,6 +1,6 @@
 Recordings of the simulations presented in the paper
 ### **"Minimizing Health Risks as a Function of the Number of Airplane Boarding Groups"** 
-submitted to the `Transportmetrica B` journal. 
+published in the `Transportmetrica B` journal: https://www.tandfonline.com/doi/abs/10.1080/21680566.2021.1968322
 
 Please feel free to contact us at liviu.cotfas at ase .ro for further details. 
 
